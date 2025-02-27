@@ -73,13 +73,8 @@ cd ai-test-project
 pdm install
 ```
 
-3. Завантажте ваги VGG16:
 
-```sh
-wget https://mega.nz/#!YU1FWJrA!O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM
-```
-
-4. Завантажте бібліотеку UI-компонентів:
+3. Завантажено бібліотеку UI-компонентів до репозиторію:
 ```sh
 wget https://www.kaggle.com/datasets/buseyarentekin/uisketch-elements-train-and-validation
 ```
